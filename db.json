@@ -1,3 +1,14 @@
 {
-  "birds": []
+  "birds": [
+    {
+      "link": "https://singaporebirds.com/species/wandering-whistling-duck/",
+      "family": "Anatidae (Ducks, Geese, Swans)",
+      "name": {
+        "scientific": "Dendrocygna arcuata",
+        "english": "Wandering Whistling Duck",
+        "malay": "Belibis Merantau",
+        "chinese": "斑胸树鸭"
+      }
+    }
+  ]
 }
